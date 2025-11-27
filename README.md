@@ -4,7 +4,7 @@
 - Default
 - Development
 - Production
-### Before executing it, There are some prerequisites:**
+### Before executing it, There are some prerequisites:
 ## Install Terraform
 **To install Terraform we can follow official Docs - [Install Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)**
 ## Create IAM user with EC2 Full Access and retrieve Access Key
