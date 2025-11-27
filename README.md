@@ -8,9 +8,9 @@
 ## Install Terraform
 **To install Terraform we can follow official Docs - [Install Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)**
 ## Create IAM user with EC2 Full Access and retrieve Access Key
-![Screenshot to create IAM user.]()
-![Screenshot to give EC2 Access]()
-![Screenshot to retreive ACCESS KEY]()
+![Screenshot to create IAM user.](https://github.com/sadiqueiqbal28/terraform-bash-launch-ec2/blob/main/images/1.png)
+![Screenshot to give EC2 Access](https://github.com/sadiqueiqbal28/terraform-bash-launch-ec2/blob/main/images/2.png)
+![Screenshot to retreive ACCESS KEY](https://github.com/sadiqueiqbal28/terraform-bash-launch-ec2/blob/main/images/3.png)
 ## Install AWS CLI
 **To install AWS CLI we can refer to official Docs - [Install AWS-CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)**
 ## Configure AWS KEY
